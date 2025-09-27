@@ -2784,7 +2784,7 @@ a,
             font-size: 10px;
             top: 5px;
             right: 5px;
-            border: 1px solid #21409a
+            border: 1px solid #9a2121
         }
 
         .smartbanner_new>div>span {
@@ -2818,10 +2818,10 @@ a,
 
         .daftarbutton,
         .daftarbutton-button {
-            background: linear-gradient(to bottom, #0d92ff 0, #0045c5 100%);
+            background: linear-gradient(to bottom, #ff0d0d 0, #c50000 100%);
             color: #ffffff;
             border-radius: 10px;
-            border: 2px solid #0045c5;
+            border: 2px solid #c50000;
         }
 
         .cta-daftar{
